@@ -1,0 +1,23 @@
+p{
+    color:aquamarine;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+    width: 50%;
+              
+    font-size: small;
+    border-radius: 5px;
+    border-style: dotted;
+}
+.grey{
+    color: grey;
+}
+background{
+    color: aliceblue;
+}
+img{
+    display: inline-block;
+    margin: auto;
+}
+.navi{
+    list-style: none;
+}
